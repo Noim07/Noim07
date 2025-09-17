@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Rubik');/*This is to change the font of text to Rubik*/
+
+body {
+ text-align: center;/*This is to change the alignment of the text to center*/
+ background-color: #b2d4ff;/*This is to change the background color of the text to light blue*/
+}
+h2 {
+    width: 1000px;/*This is to change the length the text and how far it can reach across the screen*/
+    font-family:'Rubik';/*This is to change the font of text to Rubik*/
+    font-size: 50px;/*This is to change the font size or the size of text*/
+    margin-left: 450;/*This is to change the left margin of the text*/
+    margin-top: 150;/*This is to change the top margin of the text*/
+  }
+h1 {   
+    text-decoration-color: rgb(0, 38, 255);/*This is to change the color of the text to blue*/
+    color:red; /*This is to change the color of the text to red*/
+    font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+    font-size: 45px;/*This is to change the font size or the size of text*/
+}
+h3 {
+  font-size: 50px;/*This is to change the font size or the size of text*/
+  font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+  margin-left: 1250;/*This is to change the left margin of the text*/
+  margin-top: -85px;/*This is to change the top margin of the text*/
+}
+h4 {
+  font-size: 25px;/*This is to change the font size or the size of text*/
+  margin-top: 180px;/*This is to change the top margin of the text*/
+  margin-right: 1250px;/*This is to change the right margin of the text*/
+  font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+}
+h5 {
+  font-size: 25px;/*This is to change the font size or the size of text*/
+  margin-top: -70px;/*This is to change the top margin of the text*/
+  margin-left: 40px;/*This is to change the left margin of the text*/
+  font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+}
+h6 {
+  font-size: 25px;/*This is to change the font size or the size of text*/
+  margin-top: -70px;/*This is to change the top margin of the text*/
+  margin-left: 1250px;/*This is to change the left margin of the text*/
+  font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+}
+p {
+  font-size: 30px;/*This is to change the font size or the size of text*/
+  margin-top: 100px;/*This is to change the top margin of the text*/
+  width: 1000px;/*This is to change the length the text and how far it can reach across the screen*/
+  margin-left: 450px;/*This is to change the left margin of the text*/
+  font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+}
+span {
+  font-family: 'Rubik';/*This is to change the font of text to Rubik*/
+  font-size: 30px; /*This is to change the font size or the size of text*/
+  margin-left: 50px;/*This is to change the left margin of the text*/
+}
